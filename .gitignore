@@ -5,6 +5,12 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+
+# File's will be ignore
+
+Sequence/
+
+
 # Visual Studio 2015 cache directory
 /.vs/
 
